@@ -1,4 +1,9 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+# Klipper Configuration
+### Configuration files for Klipper running on Ender 3
+![Static Badge](https://img.shields.io/badge/Status-Active-yellow)
 
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+## Installed Plugins
+* _Put Plugins Here_
+
+## Docs
+_Documentation on how to set everything up in the event a backup is required to be used_
